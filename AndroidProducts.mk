@@ -5,7 +5,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_raphael.mk
+    $(LOCAL_DIR)/ssos_raphael.mk
 
 COMMON_LUNCH_CHOICES := \
     ssos_raphael-userdebug \
